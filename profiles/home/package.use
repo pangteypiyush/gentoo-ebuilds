@@ -1,0 +1,4 @@
+x11-drivers/nvidia-drivers modules-compress
+# dev-lang/vala introspection
+# dev-util/gtk-doc introspection
+# app-crypt/gcr -vala
